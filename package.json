@@ -6,6 +6,9 @@
   "repository": "git@github.com:marcoaring/mycontacts.git",
   "author": "Marco Aring",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   },
